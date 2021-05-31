@@ -1,0 +1,12 @@
+Name: Diana Spencer
+Golf Score: 100
+-----------------------------------
+Name: Nicole Chesnut
+Golf Score: 102
+-----------------------------------
+Name: Joselyne Guillen
+Golf Score: 101
+-----------------------------------
+Name: Vardhan Raum
+Golf Score: 106
+-----------------------------------
